@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiziniers</string>
+    <string name="tvTitle">Welcome to Quiziniers!</string>
+    <string name="tvPlayerPrompt">Please enter your name below</string>
+    <string name="tvFooter">By GniemosS 2021</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="tvPlayerScore">Score: 0</string>
+    <string name="tvPlayerName">Player Name</string>
+    <string name="tvMessage">Congratulations!</string>
+    <string name="tvName">Player Name</string>
+    <string name="tvFinalScore">Final Score: 0</string>
+    <string name="btnPlayAgain">Play Again?</string>
+    <string name="btnQuit">Quit</string>
+    <string name="victoryMessage">Congratulations, you win!</string>
+    <string name="averageMessage">Okay, I guess. ¯\\_(ツ)_/¯</string>
+    <string name="loseMessage">Whomp Whomp, try again!</string>
+</resources>
